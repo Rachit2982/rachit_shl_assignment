@@ -4,7 +4,7 @@
 
 A modern, AI-driven assistant for recommending SHL assessments using conversational context, vector search, and grounded generation.
 
-![Postman API Demo](assets/postman-demo.png)
+![Postman API Demo](shl_ml_assignment-main\assets)
 
 > Example request flow: user asks for hiring recommendations, the assistant asks clarifying questions, and returns grounded assessment guidance.
 
