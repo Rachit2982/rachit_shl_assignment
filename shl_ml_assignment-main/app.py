@@ -24,7 +24,7 @@ def root():
 
 @app.get("/health")
 def health():
-    return {"status": "healthy"}
+    return {"status": "ok"}
 
 @app.post("/chat")
 async def chat(req: ChatRequest):
