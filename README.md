@@ -1,6 +1,6 @@
 # SHL Conversational Assessment Recommendation System
 
-**Author:** Rachit Saxena
+
 
 A modern, AI-driven assistant for recommending SHL assessments using conversational context, vector search, and grounded generation.
 
